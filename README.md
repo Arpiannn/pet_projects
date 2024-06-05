@@ -9,5 +9,6 @@
 <h1>Пет-проекты</h1> 
   
 | Название | Описание | Стек  |
-|----------|----------|-------|
+|:----------:|:----------:|:-------:|
 | [Результаты гонок Формулы-1](https://github.com/Arpiannn/pet_projects/tree/main/F1%20Races%20Results) | Были изучены данные о результатах заездов гонок Формулы-1. Сам датасет не большой, но не смотря на это получилось обнаружить интересные инсайты и визуализировать их | Numpy, pandas, seaborn, matplotlib, datetime |
+| [Пользователи Amazon Prime](https://github.com/Arpiannn/pet_projects/tree/main/Amazon%20Prime%20Userbase) | Еще ведется работа над проектом | Pandas, matplotlib, seaborn, warnings, datetime |
